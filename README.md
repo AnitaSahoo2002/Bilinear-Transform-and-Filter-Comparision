@@ -25,7 +25,7 @@ This repository provides a MATLAB-based implementation and comparison of digital
 ---
 
 ## 🎯 Objectives
-1.- Implement the bilinear transform for analog-to-digital filter conversion.
+1. Implement the bilinear transform for analog-to-digital filter conversion.
 2. Compare:
   - Bilinear filter vs. FIR filter
   - Bilinear filter vs. Nyquist sampling
