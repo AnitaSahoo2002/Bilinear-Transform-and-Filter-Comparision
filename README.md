@@ -48,12 +48,12 @@ This repository provides a MATLAB-based implementation and comparison of digital
 
 ## 📁 Project Structure
 
+```text
 Bilinear-Transform-and-Filter-Comparision/
 │
-├── bilinear_filter_comparison.m # Main MATLAB script
-├── README.md # Project documentation
-
-
+├── bilinear_filter_comparison.m    # Main MATLAB script implementing filters and analysis
+├── README.md                       # Project documentation
+```
 ---
 
 ## 🚀 How to Run
